@@ -1,6 +1,6 @@
 # 07-VSTDA
 
-In this project I built a Todo app using AngularJS that allows users to enter their todo items and prioritize them based on their importance.
+In this project, I built a Todo app using AngularJS that allows users to enter their todo items and prioritize them based on their importance.
 
 The app will then allow users to sort their todo items based on the priority, or by alphabetical order.
 
